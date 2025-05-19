@@ -26,7 +26,7 @@ git clone https://github.com/your-username/your-repo.git
 
 2. Navigate into the directory:
 ```bash
-cd your-repo
+cd SourceFile
 ```
 
 3. Install dependencies:
