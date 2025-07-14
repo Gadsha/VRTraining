@@ -1,5 +1,5 @@
 
-# Unity Agent Training with Python
+# RL SAR VR-Training platform using Unity
 
 ### Created by Shahin Doroudian
 
